@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/ygh/Java2Scala/interface-and-trait/src/main/scala/towTraitWithSameInstanceMehtod/ImplementClass.scala:3:7: class ImplementClass inherits conflicting members:[0m
+[0m[[0m[31merror[0m] [0m[0m  method say in trait Trait_One of type ()String  and[0m
+[0m[[0m[31merror[0m] [0m[0m  method say in trait Trait_Two of type ()String[0m
+[0m[[0m[31merror[0m] [0m[0m(Note: this can be resolved by declaring an override in class ImplementClass.)[0m
+[0m[[0m[31merror[0m] [0m[0mclass ImplementClass extends Trait_One  with Trait_Two {[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

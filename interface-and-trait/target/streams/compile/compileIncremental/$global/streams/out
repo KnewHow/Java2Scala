@@ -1,0 +1,27 @@
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(/home/ygh/Java2Scala/interface-and-trait/src/main/scala/towTraitWithSameInstanceMehtod/Trait_One.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set(/home/ygh/Java2Scala/interface-and-trait/target/scala-2.12/classes/towTraitWithSameAbstractMehtod/Show$delayedInit$body.class, /home/ygh/Java2Scala/interface-and-trait/target/scala-2.12/classes/towTraitWithSameAbstractMehtod/Trait_Two.class, /home/ygh/Java2Scala/interface-and-trait/target/scala-2.12/classes/towTraitWithSameAbstractMehtod/Trait_One.class, /home/ygh/Java2Scala/interface-and-trait/target/scala-2.12/classes/towTraitWithSameAbstractMehtod/ImplementClass.class, /home/ygh/Java2Scala/interface-and-trait/target/scala-2.12/classes/towTraitWithSameAbstractMehtod/Show.class, /home/ygh/Java2Scala/interface-and-trait/target/scala-2.12/classes/towTraitWithSameInstanceMehtod/Show$delayedInit$body.class, /home/ygh/Java2Scala/interface-and-trait/target/scala-2.12/classes/towTraitWithSameInstanceMehtod/ImplementClass.class, /home/ygh/Java2Scala/interface-and-trait/target/scala-2.12/classes/towTraitWithSameInstanceMehtod/Trait_Two.class, /home/ygh/Java2Scala/interface-and-trait/target/scala-2.12/classes/towTraitWithSameInstanceMehtod/Trait_One.class, /home/ygh/Java2Scala/interface-and-trait/target/scala-2.12/classes/towTraitWithSameInstanceMehtod/Show.class, /home/ygh/Java2Scala/interface-and-trait/target/scala-2.12/classes/towTraitWithSameAbstractMehtod/Show$.class, /home/ygh/Java2Scala/interface-and-trait/target/scala-2.12/classes/towTraitWithSameInstanceMehtod/Show$.class)[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(towTraitWithSameInstanceMehtod.Trait_One)[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set(/home/ygh/Java2Scala/interface-and-trait/src/main/scala/towTraitWithSameInstanceMehtod/Show.scala, /home/ygh/Java2Scala/interface-and-trait/src/main/scala/towTraitWithSameAbstractMehtod/ImplementClass.scala, /home/ygh/Java2Scala/interface-and-trait/src/main/scala/towTraitWithSameAbstractMehtod/Trait_One.scala, /home/ygh/Java2Scala/interface-and-trait/src/main/scala/towTraitWithSameInstanceMehtod/Trait_One.scala, /home/ygh/Java2Scala/interface-and-trait/src/main/scala/towTraitWithSameInstanceMehtod/ImplementClass.scala, /home/ygh/Java2Scala/interface-and-trait/src/main/scala/towTraitWithSameInstanceMehtod/Trait_Two.scala, /home/ygh/Java2Scala/interface-and-trait/src/main/scala/towTraitWithSameAbstractMehtod/Show.scala, /home/ygh/Java2Scala/interface-and-trait/src/main/scala/towTraitWithSameAbstractMehtod/Trait_Two.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll sources are invalidated.[0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all 8 sources: invalidated sources (8) exceeded 50.0% of all sources[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 8 Scala sources to /home/ygh/Java2Scala/interface-and-trait/target/scala-2.12/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.0.5:compile for Scala 2.12.4[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.0.5:compile for Scala 2.12.4[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 66e04359 for Scala compiler version 2.12.4[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/tools/javaTools/jdk1.8.0_151/jre/lib/resources.jar:/tools/javaTools/jdk1.8.0_151/jre/lib/rt.jar:/tools/javaTools/jdk1.8.0_151/jre/lib/sunrsasign.jar:/tools/javaTools/jdk1.8.0_151/jre/lib/jsse.jar:/tools/javaTools/jdk1.8.0_151/jre/lib/jce.jar:/tools/javaTools/jdk1.8.0_151/jre/lib/charsets.jar:/tools/javaTools/jdk1.8.0_151/jre/lib/jfr.jar:/tools/javaTools/jdk1.8.0_151/jre/classes:/home/ygh/.sbt/boot/scala-2.12.4/lib/scala-library.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/ygh/Java2Scala/interface-and-trait/target/scala-2.12/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0mCompilation failed (CompilerInterface)[0m
+[0m[[0m[31merror[0m] [0m[0m(compile:[31mcompileIncremental[0m) Compilation failed[0m
